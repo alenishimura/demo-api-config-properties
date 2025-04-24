@@ -1,0 +1,27 @@
+{
+  "groups": [
+    {
+      "name": "api",
+      "type": "com.exemplo.demo.config.ApiConfig",
+      "sourceType": "com.exemplo.demo.config.ApiConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "api.chave",
+      "type": "java.lang.String",
+      "sourceType": "com.exemplo.demo.config.ApiConfig"
+    },
+    {
+      "name": "api.timeout",
+      "type": "java.lang.Integer",
+      "sourceType": "com.exemplo.demo.config.ApiConfig"
+    },
+    {
+      "name": "api.url",
+      "type": "java.lang.String",
+      "sourceType": "com.exemplo.demo.config.ApiConfig"
+    }
+  ],
+  "hints": []
+}
